@@ -3,133 +3,133 @@
   background-repeat: no-repeat;
   background-image: url(sprite.svg);
 }
-.icon-icon-send {
+.icon-menu_40px {
   width: 32px;
   height: 32px;
   background-position: 0 0;
 }
-.icon-close {
+.icon-icon-send {
   width: 32px;
   height: 32px;
   background-position: -48px 0;
 }
-.icon-phone-black {
+.icon-close {
   width: 32px;
   height: 32px;
   background-position: -96px 0;
 }
-.icon-person-black {
+.icon-phone-black {
   width: 32px;
   height: 32px;
   background-position: -144px 0;
 }
-.icon-email-black {
+.icon-person-black {
   width: 32px;
   height: 32px;
   background-position: -192px 0;
 }
-.icon-instagram-footer {
+.icon-email-black {
   width: 32px;
   height: 32px;
   background-position: -240px 0;
 }
-.icon-facebook-footer {
+.icon-instagram-footer {
   width: 32px;
   height: 32px;
   background-position: -288px 0;
 }
-.icon-twitter-footer {
+.icon-facebook-footer {
   width: 32px;
   height: 32px;
   background-position: -336px 0;
 }
-.icon-in-footer {
+.icon-twitter-footer {
   width: 32px;
   height: 32px;
   background-position: -384px 0;
 }
-.icon-twitter {
+.icon-in-footer {
   width: 32px;
   height: 32px;
   background-position: -432px 0;
 }
-.icon-instagram {
+.icon-twitter {
   width: 32px;
   height: 32px;
   background-position: -480px 0;
 }
-.icon-in {
+.icon-instagram {
   width: 32px;
   height: 32px;
   background-position: -528px 0;
 }
-.icon-facebook {
+.icon-in {
   width: 32px;
   height: 32px;
   background-position: -576px 0;
 }
-.icon-clock {
+.icon-facebook {
   width: 32px;
   height: 32px;
   background-position: -624px 0;
 }
-.icon-antenna {
+.icon-clock {
   width: 32px;
   height: 32px;
   background-position: -672px 0;
 }
-.icon-astronaut {
+.icon-antenna {
   width: 32px;
   height: 32px;
   background-position: -720px 0;
 }
-.icon-diagram {
+.icon-astronaut {
   width: 32px;
   height: 32px;
   background-position: 0 -48px;
 }
+.icon-diagram {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -48px;
+}
 .icon-gmail {
   width: 43px;
   height: 32px;
-  background-position: -48px -48px;
+  background-position: -96px -48px;
 }
 .icon-smartphone {
   width: 20px;
   height: 32px;
-  background-position: -144px -48px;
+  background-position: -192px -48px;
 }
 .icon-Logo-4 {
   width: 57px;
   height: 32px;
-  background-position: -192px -48px;
+  background-position: -240px -48px;
 }
 .icon-Logo-5 {
   width: 57px;
   height: 32px;
-  background-position: -288px -48px;
+  background-position: -336px -48px;
 }
 .icon-Logo-6 {
   width: 57px;
   height: 32px;
-  background-position: -384px -48px;
+  background-position: -432px -48px;
 }
 .icon-Logo-1 {
   width: 57px;
   height: 32px;
-  background-position: -480px -48px;
+  background-position: -528px -48px;
 }
 .icon-Logo-2 {
   width: 57px;
   height: 32px;
-  background-position: -576px -48px;
+  background-position: -624px -48px;
 }
 .icon-Logo-3 {
   width: 57px;
-  height: 32px;
-  background-position: -672px -48px;
-}
-.icon-twitter-gray {
-  width: 32px;
   height: 32px;
   background-position: 0 -96px;
 }

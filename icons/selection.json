@@ -4,6 +4,34 @@
     {
       "icon": {
         "paths": [
+          "M204.8 375.468v-68.268h614.4v68.268h-614.4zM204.8 546.132h614.4v-68.265h-614.4v68.265zM204.8 716.8h614.4v-68.268h-614.4v68.268z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "menu_40px"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 71,
+        "id": 0,
+        "name": "menu_40px",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 3,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
           "M1024 0l-1024 576 327.251 121.203 504.749-473.202-383.927 517.955 0.311 0.115-0.384-0.115v282.048l183.522-214.106 232.482 86.106 159.996-896.004z"
         ],
         "attrs": [
@@ -36,7 +64,7 @@
         "name": "icon-send",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 0
     },
@@ -105,7 +133,7 @@
         "name": "close",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 1
     },
@@ -138,7 +166,7 @@
         "name": "phone-black",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 2
     },
@@ -171,7 +199,7 @@
         "name": "person-black",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 3
     },
@@ -204,7 +232,7 @@
         "name": "email-black",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 5
     },
@@ -275,7 +303,7 @@
         "name": "instagram-footer",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 6
     },
@@ -326,7 +354,7 @@
         "name": "facebook-footer",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 7
     },
@@ -375,7 +403,7 @@
         "name": "twitter-footer",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 8
     },
@@ -446,7 +474,7 @@
         "name": "in-footer",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 9
     },
@@ -495,7 +523,7 @@
         "name": "twitter",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 10
     },
@@ -564,7 +592,7 @@
         "name": "instagram",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 11
     },
@@ -633,7 +661,7 @@
         "name": "in",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 12
     },
@@ -682,7 +710,7 @@
         "name": "facebook",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 13
     },
@@ -746,12 +774,12 @@
         }
       ],
       "properties": {
-        "order": 37,
+        "order": 68,
         "id": 22,
         "name": "clock",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 14
     },
@@ -825,12 +853,12 @@
         }
       ],
       "properties": {
-        "order": 36,
+        "order": 67,
         "id": 21,
         "name": "antenna",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 15
     },
@@ -1069,7 +1097,7 @@
         "name": "astronaut",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 16
     },
@@ -1148,7 +1176,7 @@
         "name": "diagram",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 17
     },
@@ -1188,7 +1216,7 @@
         "name": "gmail",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 18
     },
@@ -1238,7 +1266,7 @@
         "name": "smartphone",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 21
     },
@@ -1308,7 +1336,7 @@
         "name": "Logo-4",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 22
     },
@@ -1438,7 +1466,7 @@
         "name": "Logo-5",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 27
     },
@@ -1648,7 +1676,7 @@
         "name": "Logo-6",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 28
     },
@@ -1688,7 +1716,7 @@
         "name": "Logo-1",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 30
     },
@@ -1908,7 +1936,7 @@
         "name": "Logo-2",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 31
     },
@@ -2068,48 +2096,9 @@
         "name": "Logo-3",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 2,
       "iconIdx": 32
-    },
-    {
-      "icon": {
-        "paths": [
-          "M1024 194.496c-38.077 16.704-78.659 27.776-120.96 33.152 43.52-25.984 76.739-66.816 92.349-116.032-40.571 24.192-85.371 41.28-133.12 50.816-38.528-41.024-93.44-66.432-153.344-66.432-116.219 0-209.789 94.336-209.789 209.984 0 16.64 1.408 32.64 4.864 47.872-174.528-8.512-328.96-92.16-432.704-219.584-18.112 31.424-28.736 67.392-28.736 106.112 0 72.704 37.44 137.152 93.248 174.464-33.728-0.64-66.816-10.432-94.848-25.856 0 0.64 0 1.472 0 2.304 0 102.016 72.768 186.752 168.192 206.269-17.088 4.675-35.712 6.912-55.040 6.912-13.44 0-27.008-0.763-39.744-3.584 27.2 83.139 104.384 144.261 196.16 146.243-71.424 55.875-162.112 89.533-260.288 89.533-17.216 0-33.728-0.763-50.24-2.877 92.992 59.971 203.2 94.208 322.048 94.208 386.304 0 597.504-320 597.504-597.376 0-9.28-0.317-18.24-0.768-27.136 41.667-29.568 76.672-66.496 105.216-108.992z"
-        ],
-        "attrs": [
-          {
-            "fill": "rgb(175, 177, 184)"
-          }
-        ],
-        "isMulticolor": false,
-        "isMulticolor2": false,
-        "grid": 0,
-        "tags": [
-          "twitter 1"
-        ],
-        "colorPermutations": {
-          "1117117117117517718412452442501255255255130303013315024313333331": [
-            {
-              "f": 5
-            }
-          ]
-        }
-      },
-      "attrs": [
-        {
-          "fill": "rgb(175, 177, 184)"
-        }
-      ],
-      "properties": {
-        "order": 58,
-        "id": 0,
-        "name": "twitter-gray",
-        "prevSize": 32
-      },
-      "setIdx": 0,
-      "setId": 2,
-      "iconIdx": 36
     }
   ],
   "height": 1024,

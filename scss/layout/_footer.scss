@@ -1,0 +1,110 @@
+.footer {
+  background: #2f303f;
+  padding: 60px 0;
+  display: flex;
+}
+
+.logo-web-footer {
+  color: $primalcolor;
+}
+
+.logo-studio-footer {
+  color: #fff;
+}
+
+.footer-contacs-list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 9px;
+
+  .footer-contact {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+  }
+}
+
+.icon-footer {
+  fill: rgba(255, 255, 255, 0.1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.icon-footer:hover {
+  fill: $hover-color;
+}
+
+.address {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.42px;
+  margin: 20px 0 9px;
+}
+
+.flex {
+  display: flex;
+}
+
+.media-title {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.42px;
+  text-transform: uppercase;
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.media-box {
+  display: flex;
+  flex-direction: column;
+  margin-left: 70px;
+}
+
+.footer-media-list {
+  display: flex;
+  column-gap: 10px;
+}
+
+.footer-media-list:last-child {
+  column-gap: 12px;
+}
+
+.media-form {
+  margin-left: 93px;
+}
+
+.media-input-email {
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: inherit;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  padding-left: 16px;
+  width: 358px;
+  height: 50px;
+}
+
+.media-link {
+  border-radius: 4px;
+  background: $primalcolor;
+  border: none;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  width: 200px;
+  height: 50px;
+  color: #fff;
+  display: inline-block;
+  padding-left: 28px;
+  padding-top: 10px;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0.96px;
+  position: relative;
+}
+
+.footer-media-icon-send {
+  top: 13px;
+  right: 28px;
+  position: absolute;
+}
